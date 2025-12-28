@@ -8,7 +8,7 @@ Android Developer • Kotlin • Jetpack Compose
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-8EC5FC?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-2.6%2B%20Years-8EC5FC?style=flat" />
   <img src="https://img.shields.io/badge/Location-India-E0C3FC?style=flat" />
   <img src="https://img.shields.io/badge/Open%20to%20Learning-Always-8EC5FC?style=flat" />
 </p>
