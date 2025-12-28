@@ -18,7 +18,7 @@ Android Developer • Kotlin • Jetpack Compose
 
 ## 👩‍💻 Professional Summary
 
-Android Developer with **2.5+ years of hands-on experience** building and maintaining **production-grade Android applications**.  
+Android Developer with **2.6+ years of hands-on experience** building and maintaining **production-grade Android applications**.  
 Currently working at **TCS** for an **automotive domain client**, collaborating with senior engineers to deliver scalable and maintainable solutions.
 
 Strong in **Kotlin**, **Jetpack Compose**, and **MVVM**, with a focus on clean code, performance, and user experience.
