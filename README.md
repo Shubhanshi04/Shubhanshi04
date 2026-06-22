@@ -8,7 +8,7 @@ Android Developer • Kotlin • Jetpack Compose
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-2.6%2B%20Years-8EC5FC?style=flat" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-8EC5FC?style=flat" />
   <img src="https://img.shields.io/badge/Location-India-E0C3FC?style=flat" />
   <img src="https://img.shields.io/badge/Open%20to%20Learning-Always-8EC5FC?style=flat" />
 </p>
@@ -18,7 +18,7 @@ Android Developer • Kotlin • Jetpack Compose
 
 ## 👩‍💻 Professional Summary
 
-Android Developer with **2.6+ years of hands-on experience** building and maintaining **production-grade Android applications**.  
+Android Developer with **3+ years of hands-on experience** building and maintaining **production-grade Android applications**.  
 Currently working at **TCS** for an **automotive domain client**, collaborating with senior engineers to deliver scalable and maintainable solutions.
 
 Strong in **Kotlin**, **Jetpack Compose**, and **MVVM**, with a focus on clean code, performance, and user experience.
@@ -72,8 +72,9 @@ Strong in **Kotlin**, **Jetpack Compose**, and **MVVM**, with a focus on clean c
 ## 💼 Experience
 
 **Android Developer – TCS**  
-*Automotive Domain*
-
+- 🚗 Automotive Domain: General Motors / OnStar Guardian
+- 💳 FinTech Domain: PayPal
+- 📱 3+ years of experience in Android development using Kotlin, Jetpack Compose, MVVM, Coroutines, Room, Retrofit, and Hilt.
 - Contributed to feature development and bug fixes in a large-scale Android application
 - Worked closely with senior developers and cross-functional teams
 - Followed best practices for code quality, version control, and testing
